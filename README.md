@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jyotikaramalli/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Jyotikaramalli/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Jyotikaramalli/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Jyotikaramalli/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jyotikaramalli/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Jyotikaramalli/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Jyotikaramalli/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Jyotikaramalli/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Jyotikaramalli/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Jyotikaramalli/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
